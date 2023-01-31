@@ -10,7 +10,6 @@
  *   en la mitad inferior o superior, y se repite la búsqueda del centro de esta sublista 
  * hasta dar con el elemento a buscar.
  */
-package estructurasestaticas;
 
 import java.util.Scanner;
 
