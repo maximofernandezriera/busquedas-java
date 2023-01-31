@@ -6,3 +6,5 @@ Un ejercicio de búsquedas para Java.
  - Búsqueda secuencial: los elementos de la lista se van examinando secuencialmente, uno detrás de otro, hasta que se encuentra el elemento buscado.
  
  - Búsqueda binaria: se situa la búsqueda en el centro de la lista. Si el elemento buscado no coincide con el elemento central, se comprueba si éste se encontraría en la mitad inferior o superior, y se repite la búsqueda del centro de esta sublista hasta dar con el elemento a buscar.
+
+NOTA: Los elementos pueden directamente establecidos en el código, el elemento a buscar debe ser introducido por el usuario.
