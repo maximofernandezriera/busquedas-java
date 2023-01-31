@@ -7,4 +7,13 @@ Un ejercicio de búsquedas para Java.
  
  - Búsqueda binaria: se situa la búsqueda en el centro de la lista. Si el elemento buscado no coincide con el elemento central, se comprueba si éste se encontraría en la mitad inferior o superior, y se repite la búsqueda del centro de esta sublista hasta dar con el elemento a buscar.
 
-NOTA: Los elementos pueden directamente establecidos en el código, el elemento a buscar debe ser introducido por el usuario.
+NOTA: Los elementos pueden directamente establecidos en el código, por ejemplo:
+
+   int[] array = {1, 3, 4, 6, 8, 10, 11, 12, 15, 16, 17, 19, 21, 24, 26, 29, 30, 31, 33, 39};
+
+Y el elemento a buscar debe ser introducido por el usuario, por ejemplo:.
+
+       Scanner sc = new Scanner(System.in);
+       System.out.println("Introduzca un elemento a buscar");
+       int valorBuscado = sc.nextInt();
+
