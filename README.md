@@ -9,7 +9,7 @@ Un ejercicio de búsquedas para Java.
 
 NOTA: Los elementos pueden directamente establecidos en el código, por ejemplo:
 
-   int[] array = {1, 3, 4, 6, 8, 10, 11, 12, 15, 16, 17, 19, 21, 24, 26, 29, 30, 31, 33, 39};
+      int[] array = {1, 3, 4, 6, 8, 10, 11, 12, 15, 16, 17, 19, 21, 24, 26, 29, 30, 31, 33, 39};
 
 Y el elemento a buscar debe ser introducido por el usuario, por ejemplo:.
 
