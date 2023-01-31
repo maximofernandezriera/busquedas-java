@@ -1,5 +1,5 @@
 /*
- * BUSQUEDA BINARIA:
+ * BUSQUEDAS:
  * A partir de una lista ordenada de 20 números realiza un programa que llame a 
  * dos funciones que realizan dos tipos de búsqueda y muestre el número de pasos 
  * que se realizan en cada una de ellas para dar con el elemento a buscar.
